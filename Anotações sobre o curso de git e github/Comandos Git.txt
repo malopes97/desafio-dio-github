@@ -1,0 +1,17 @@
+#Comandos para Git
+
+## Git Clone (+ link) = faz uma cópia identica de um link de um repositório remoto para o seu computador para que você possa trabalhar de forma local
+
+## Git Status = informações sobre a pasta atual 
+
+## Git Add = incluir alterações de um ou varios arquivos em nosso proximo commit
+
+## Git Commit = Salvar informações (ou definir um ponto de verificação no processo de desenvolvimento)
+
+## Git Push = Envia suas alterações ao servidor remoto 
+
+## Git Pull = obtem as informações atualizadas de um repositório remoto 
+
+## Git Revert = desfaz as alterações do commit 
+
+## Git branch = cria uma ramificação 
